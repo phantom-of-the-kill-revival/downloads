@@ -21,6 +21,8 @@ Scanned 2026-11-21: 868 messages across all text channels, 757 files and links c
 
 The three files over 25 MB live in the [v1.0 release](https://github.com/phantom-of-the-kill-revival/downloads/releases/tag/v1.0), not in the repo itself.
 
+The current test build lives in the [beta-2026-11-23 release](https://github.com/phantom-of-the-kill-revival/downloads/releases/tag/beta-2026-11-23): patched potk-patched.apk (82.5 MB) and potk-patched.ipa (68.7 MB). Install guide in #apk-versions on Discord.
+
 
 ## Downloads that live elsewhere
 
@@ -36,7 +38,7 @@ These are linked, not stored here:
 ## What's not in here (yet)
 
 
-The full scan found 1.7 GB: 605 artwork images (642 MB), the five released anime episodes (444 MB), and 51 BGM tracks (130 MB). That's too large for a normal git repo, so they stay in Discord for now. One file, `Tyrfing.mp4` (108 MB), is over GitHub's 100 MB per-file limit and would need Git LFS.
+The full scan found 1.7 GB: 605 artwork images (642 MB), the ten released anime episodes, and 51 BGM tracks (130 MB). That's too large for a normal git repo, so they stay in Discord for now. One file, `Tyrfing.mp4` (108 MB), is over GitHub's 100 MB per-file limit and would need Git LFS.
 
 
 See [`downloads-catalog.md`](downloads-catalog.md) for the complete list — every file, who posted it, and when.
